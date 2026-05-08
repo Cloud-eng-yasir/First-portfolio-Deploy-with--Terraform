@@ -74,9 +74,4 @@ This project gave me practical experience in:
 **Yasir Saleem**  
 Aspiring Cloud & DevOps Engineer 🚀
 
-## 🔗 GitHub Repository
-
-(Add your repository link here)
-
----
 ⭐ If you like this project, feel free to star the repository.
